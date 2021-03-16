@@ -1,0 +1,5 @@
+﻿  Ellipse.cpp
+  Source.cpp
+C:\Users\Пользователь\source\repos\oop_laba1.6\oop_laba1.6\Source.cpp(26,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  oop_laba1.6.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba1.6\Debug\oop_laba1.6.exe
